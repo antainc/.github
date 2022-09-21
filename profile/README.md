@@ -1,9 +1,9 @@
-# Rustic Finance
+# Anta Finance
 
-## Rustic Frontend 
-https://github.com/rustic-finance/frontend
+## Anta Frontend 
+https://github.com/anta-finance/frontend
 
-This repository hosts the source code that runs 4 of Rustic Finance's webapps, the landing page, swap page, lending page and webapp. 
+This repository hosts the source code that runs 4 of Anta Finance's webapps, the landing page, swap page, lending page and webapp. 
 
 ## Getting Started
 
@@ -92,8 +92,8 @@ The treasury should automatically open at http://localhost:3000.
 ## Packages
 
 - `shared`: holds all constants, common React components.
-- `landing`: holds the Rustic landing page.
-- `webapp`: holds the v1 Rustic webapp.
+- `landing`: holds the Anta landing page.
+- `webapp`: holds the v1 Anta webapp.
 
 ## Available Scripts
 
@@ -124,8 +124,8 @@ Kovan testnet was selected because Opyn had their contracts deployed there.
 
 ## Contributing
 
-Feel free to open issues and PRs that help improve Rustic's frontend. Rustic's frontend uses the React + Typescript + hooks stack, so experience using these technologies is highly appreciated when making pull requests.
+Feel free to open issues and PRs that help improve Anta's frontend. Anta's frontend uses the React + Typescript + hooks stack, so experience using these technologies is highly appreciated when making pull requests.
 
 ## License
 
-The primary license for rustic-frontend is the Business Source License 1.1 (BUSL-1.1), see LICENSE.
+The primary license for anta-frontend is the Business Source License 1.1 (BUSL-1.1), see LICENSE.
