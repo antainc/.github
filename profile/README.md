@@ -1,7 +1,7 @@
 # Anta Finance
 
 ## Anta Frontend 
-https://github.com/anta-finance/frontend
+https://github.com/antainc/frontend
 
 This repository hosts the source code that runs 4 of Anta Finance's webapps, the landing page, swap page, lending page and webapp. 
 
